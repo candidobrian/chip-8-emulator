@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.localized
+/.build
+/.cache
+/build
+/target
